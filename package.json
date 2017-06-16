@@ -1,0 +1,27 @@
+{
+  "name": "tentamen",
+  "version": "1.0.0",
+  "description": "Tenteman opdracht 2017 informatica 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hank35/prog_project.git"
+  },
+  "author": "Hank35",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hank35/prog_project/issues"
+  },
+  "homepage": "https://github.com/Hank35/prog_project#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.4.2"
+  }
+}
