@@ -1,0 +1,8 @@
+{
+  "webPort": "8080",
+  "dbServer": "146.185.130.82",
+  "dbUsername": "gebruiker",
+  "dbPassword": "wachtwoord",
+  "dbSchema": "1071",
+  "secretkey":  "langereekswoorden"
+}
