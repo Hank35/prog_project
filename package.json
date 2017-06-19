@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Hank35/prog_project#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "express": "^4.15.3",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.17.2",
     "chai": "^4.0.2",
