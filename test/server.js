@@ -1,3 +1,7 @@
+/**
+ * Created by dkroeske on 31/03/2017.
+ */
+
 var chai = require('chai');
 var chaiHttp = require('chai-http');
 var server = require('../index');
